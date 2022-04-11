@@ -2,7 +2,7 @@
 
 # Alexis Mack - Full Stack  Developer
 
-I am a Full Stack Developer currently located in Palo Alto, California. This showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me.
+I am a student currently located in Palo Alto, California. This showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me.
 
 
 
