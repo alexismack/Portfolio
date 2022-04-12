@@ -17,6 +17,7 @@ I am currently working on a cryptography project in partnership with the Convex 
 ## Projects 
 ### Honest NFT 
 [View Website](https://www.honestnft.xyz/)
+
 [View Git](https://github.com/Convex-Labs/honestnft-shenanigans)
 
 ### Question Answering 
@@ -39,7 +40,7 @@ Computer Organization and Systems (C), Principles of Computer Systems, Design an
 
 ### Front End
 
-HTML CSS LESS JavaScript React React Native Figma
+HTML CSS JavaScript React ReactNative Figma
 
 ### Back End
 
