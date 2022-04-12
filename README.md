@@ -14,7 +14,7 @@ I am currently working on a cryptography project in partnership with the Convex 
 ## Experience 
 ### 
 
-## Projects 
+## Current Projects 
 ### Honest NFT 
 [View Website](https://www.honestnft.xyz/)
 
@@ -22,12 +22,6 @@ I am currently working on a cryptography project in partnership with the Convex 
 
 ### Question Answering 
 [View Git](kerikailiwang.com)
-### Womxn Ignite 
-[View Media](https://techcrunch.com/2020/11/27/theres-no-hacker-house-geared-toward-undergraduate-women-so-they-created-one-of-their-own/)
-
-
-[View Social Media](https://www.instagram.com/womxnignite/?hl=en)
-
 
 ## Education
 #### Stanford University 
